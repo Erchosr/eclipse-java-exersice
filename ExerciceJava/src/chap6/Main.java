@@ -31,7 +31,7 @@ public class Main {
         
         System.out.println("\n===== Exercice 6.3 =====");
 
-        Etudiant etudiant = new Etudiant("Dupont", "Jean", 20, 15.5);
+        Etudiant etudiant = new Etudiant("Robin", "Jean", 20, 15.5);
 
         System.out.println(etudiant);
     }
