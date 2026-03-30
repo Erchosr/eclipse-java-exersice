@@ -9,6 +9,7 @@ public class LectureFichier {
     public static void executer() {
 
         String fichier = "src/livres.txt";
+        String notes = "src/notes.txt";
         int compteur = 0;
 
         try (BufferedReader reader = new BufferedReader(new FileReader(fichier))) {
