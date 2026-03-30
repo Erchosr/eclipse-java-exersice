@@ -7,7 +7,7 @@ public class Main {
         LectureFichier.executer();
 
         System.out.println("\n===== Écriture dans le fichier =====");
-        //EcritureFichier.executer();
+        EcritureFichier.executer();
         
         System.out.println("===== Lecture CSV =====");
         LectureCSV.executer();
